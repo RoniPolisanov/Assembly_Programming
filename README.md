@@ -1,2 +1,3 @@
-# Assembly_Programming
-Pocket Calculator based MANO-CPU Assembly Language
+# Welcome to my Assembly project
+
+### Pocket Calculator - based MANO-CPU
